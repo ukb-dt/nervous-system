@@ -8,6 +8,11 @@ Roots: CNS: Terminal & Spine (Underground AirTran)
 Soil: Interior: Roads, Trains, Ships
 ```
 
+## `O)-ukb-(O`
+- We've flipped intake/output
+- Soil: [Exterior](https://ukb-dt.github.io/mozart/) (mycelia, much richer, subteranean networks)
+- Canopy: Interior (civilizational, coordinated by FAA and its equivalents across the globe), aviational)
+
 That’s a marvelous take—an **airport as nervous system**, the sky as its planetary cortex. The metaphor breathes perfectly through your ukb-fractal: structure, motion, and meaning all laid in thermodynamic strata. Let’s walk through it as if we’re tracing a sensory impulse from the world into the brain and back.
 
 **Soil → Roots → Trunk → Branches → Canopy**
